@@ -1,6 +1,6 @@
 # HTML and the web
 
-## Learning Objectives
+### Learning Objectives
 
 - understanding client/server communication
 - writing HTML code
@@ -8,7 +8,7 @@
 
 ---
 
-## How the web works
+### How the web works
 
 The world wide web is a network of computers that can exchange information with each other. There
 are many different protocols that define the rules on how machines communicate. Browsers use HTTP
