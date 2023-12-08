@@ -1,6 +1,6 @@
 # HTML and the web
 
-## Learning Objectives
+### Learning Objectives
 
 - understanding client/server communication
 - writing HTML code
@@ -8,11 +8,11 @@
 
 ---
 
-## How the web works
+### How the web works
 
-The world wide web is a network of computers that can exchange information with each other. There
+_The world wide web is a network of computers that can exchange information with each other. There
 are many different protocols that define the rules on how machines communicate. Browsers use HTTP
-(Hypertext Transfer Protocol) to communicate with web servers.
+(Hypertext Transfer Protocol) to communicate with web servers._
 
 - The URL (Uniform Resource Locator) is the unique address of a resource on the web contains a human
   readable domain name, that needs to be resolved to the technical IP (Internet Protocol) address of
